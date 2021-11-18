@@ -1,15 +1,21 @@
 <html>
 <h2>Tyler's First Coded HTML</h2>
-<i>HTML Coded, Test-1 V1.2</i>
+<i>HTML Coded, Test-1 V1.5 ALPHA</i>
 <br> 
 <form action="https://github.com/Kodenwaffen/Test-1/new/main">
     <button type="submit">GitHUB Code</button>
   </form>
 <br> 
 I have created this website by customised HTML coding. By clicking the "GitHUB Code" Button you can see the code that has been used in this website.
-
+TEST:
 <form method="post" action="mailer.php">
 Name: <Input type="text" name="name" value=""/><br />
 Email: <input type="text" name="name" value="email@example.com"/><br />
 Comments: <input type="text" name="name" value=""/<br />
+<br>
+<br>
+<br>
+Feel free to open and join the github to help code and create websites including this one, by clicking <form action="https://github.com/Kodenwaffen/Test-1/new/main">
+    <button type="submit">HERE</button>
+  </form> 
 </html> 
